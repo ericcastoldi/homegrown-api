@@ -1,37 +1,25 @@
-process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
+const spreadsheet = require('./spreadsheet.js');
 
-const GoogleSpreadsheet = require('google-spreadsheet');
-const credentials = require('./client-secret.json');
-const parseRows = require('./parseRows.js');
 
-const getSheetRows = () => {
-    return new Promise((resolve, reject) => {
-        
-        const sheet = new GoogleSpreadsheet('1DxzIdHkuZPZq6Q_5etViHlEZIUPQJkgPqs8Wc49GfRg');
-        
-        sheet.useServiceAccountAuth(credentials, (authErr) => {
-
-            if(authErr) {
-                reject(authErr);
-                return;
-            }
-
-            sheet.getRows(1, (getRowsErr, rows) => {
-                if(getRowsErr){
-                    reject(getRowsErr);
-                    return;
+const averageProductValue = () => {
+    spreadsheet.getRows()
+        .then(rows => {
+            const updatedRows = rows.map(row => {
+                const cloneRow = Object.assign({}, row);
+                if(cloneRow.historico.length <= 1){
+                   cloneRow.valorMedio = null;
+                   return cloneRow;
                 }
-                
-                resolve(parseRows(rows));
                
+               const valorTotal = cloneRow.historico.reduce((prev, next) => { return prev.valor + next.valor; });
+               cloneRow.valorMedio = valorTotal / cloneRow.historico.length;
+               
+               return cloneRow;
             });
-           
-        });
-    });
+            
+            console.log(JSON.stringify(updatedRows));
+        })
+        .catch(console.error);
 };
 
-getSheetRows()
-    .then(rows => console.log(JSON.stringify(rows)))
-    .catch(console.error);
-    
-module.exports = getSheetRows;
+averageProductValue();
