@@ -1,0 +1,19 @@
+{
+  "name": "homegrown-api",
+  "version": "1.0.0",
+  "description": "App de organização doméstica.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Castoldi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericcastoldi/homegrown-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ericcastoldi/homegrown-api/issues"
+  },
+  "homepage": "https://github.com/ericcastoldi/homegrown-api#readme"
+}
