@@ -14,7 +14,7 @@ sheet.useServiceAccountAuth(credentials, (authErr) => {
 
     sheet.getRows(1, (err, rows) => {
         if(err){
-            console.error(authErr);
+            console.error(err);
             return;
         }
             
