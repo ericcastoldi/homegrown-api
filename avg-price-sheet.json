@@ -1,958 +1,919 @@
 [
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Grão de Bico (em conserva)",
-    "categoria":"Alimentação - Conservas",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Grão de Bico (em conserva)",
+    "categoria": "Alimentação - Conservas",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Feijão Branco (em conserva)",
-    "categoria":"Alimentação - Conservas",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Feijão Branco (em conserva)",
+    "categoria": "Alimentação - Conservas",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Milho Verde",
-    "categoria":"Alimentação - Conservas",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Milho Verde",
+    "categoria": "Alimentação - Conservas",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Ervilhas",
-    "categoria":"Alimentação - Conservas",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Ervilhas",
+    "categoria": "Alimentação - Conservas",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Palmito",
-    "categoria":"Alimentação - Conservas",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Palmito",
+    "categoria": "Alimentação - Conservas",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Azeitonas",
-    "categoria":"Alimentação - Conservas",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Azeitonas",
+    "categoria": "Alimentação - Conservas",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Chocolate",
-    "categoria":"Alimentação - Doces e Sobremesas",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Chocolate",
+    "categoria": "Alimentação - Doces e Sobremesas",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Sorvete",
-    "categoria":"Alimentação - Doces e Sobremesas",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Sorvete",
+    "categoria": "Alimentação - Doces e Sobremesas",
+    "historico": [
       {
-        "valor":17.9,
-        "valorExibicao":"R$ 17,90",
-        "data":"2017-07-07T03:00:00.000Z",
-        "observacoes":""
+        "valor": 17.9,
+        "valorExibicao": "R$ 17,90",
+        "data": "2017-07-07T03:00:00.000Z",
+        "observacoes": ""
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Salsinha",
-    "categoria":"Alimentação - Hortifruti",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Salsinha",
+    "categoria": "Alimentação - Hortifruti",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Repolho",
-    "categoria":"Alimentação - Hortifruti",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Repolho",
+    "categoria": "Alimentação - Hortifruti",
+    "historico": [
       {
-        "valor":3.28,
-        "valorExibicao":"R$ 3,28",
-        "data":null,
-        "observacoes":"Por unidade"
+        "valor": 3.28,
+        "valorExibicao": "R$ 3,28",
+        "data": null,
+        "observacoes": "Por unidade"
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Cenoura",
-    "categoria":"Alimentação - Hortifruti",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Cenoura",
+    "categoria": "Alimentação - Hortifruti",
+    "historico": [
       {
-        "valor":0.93,
-        "valorExibicao":"R$ 0,93",
-        "data":null,
-        "observacoes":"2 cenouras - 0,315g - R$2,98 p/kg"
+        "valor": 0.93,
+        "valorExibicao": "R$ 0,93",
+        "data": null,
+        "observacoes": "2 cenouras - 0,315g - R$2,98 p/kg"
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Tomate",
-    "categoria":"Alimentação - Hortifruti",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Tomate",
+    "categoria": "Alimentação - Hortifruti",
+    "historico": [
       {
-        "valor":3.56,
-        "valorExibicao":"R$ 3,56",
-        "data":"2017-10-09T03:00:00.000Z",
-        "observacoes":"4 tomates - 0,65g - R$5,48p/kg"
+        "valor": 3.56,
+        "valorExibicao": "R$ 3,56",
+        "data": "2017-10-09T03:00:00.000Z",
+        "observacoes": "4 tomates - 0,65g - R$5,48p/kg"
       },
       {
-        "valor":1.86,
-        "valorExibicao":"R$ 1,86",
-        "data":null,
-        "observacoes":"3 tomates - 0,435g - R$4,29 p/kg"
+        "valor": 1.86,
+        "valorExibicao": "R$ 1,86",
+        "data": null,
+        "observacoes": "3 tomates - 0,435g - R$4,29 p/kg"
       }
     ],
-    "valorMedio":2.71
+    "temHistorico": true,
+    "valorMedio": 2.71
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Cebola",
-    "categoria":"Alimentação - Hortifruti",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Cebola",
+    "categoria": "Alimentação - Hortifruti",
+    "historico": [
       {
-        "valor":1.48,
-        "valorExibicao":"R$ 1,48",
-        "data":"2017-10-09T03:00:00.000Z",
-        "observacoes":"3 cebolas - 0,595g - R$2,48 p/kg"
+        "valor": 1.48,
+        "valorExibicao": "R$ 1,48",
+        "data": "2017-10-09T03:00:00.000Z",
+        "observacoes": "3 cebolas - 0,595g - R$2,48 p/kg"
       },
       {
-        "valor":1.58,
-        "valorExibicao":"R$ 1,58",
-        "data":null,
-        "observacoes":"4 cebolas - 0,800g - R$1,98 p/kg"
+        "valor": 1.58,
+        "valorExibicao": "R$ 1,58",
+        "data": null,
+        "observacoes": "4 cebolas - 0,800g - R$1,98 p/kg"
       }
     ],
-    "valorMedio":1.53
+    "temHistorico": true,
+    "valorMedio": 1.53
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Cebolinha",
-    "categoria":"Alimentação - Hortifruti",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Cebolinha",
+    "categoria": "Alimentação - Hortifruti",
+    "historico": [
       {
-        "valor":0.98,
-        "valorExibicao":"R$ 0,98",
-        "data":"2017-10-09T03:00:00.000Z",
-        "observacoes":""
+        "valor": 0.98,
+        "valorExibicao": "R$ 0,98",
+        "data": "2017-10-09T03:00:00.000Z",
+        "observacoes": ""
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Alho",
-    "categoria":"Alimentação - Hortifruti",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Alho",
+    "categoria": "Alimentação - Hortifruti",
+    "historico": [
       {
-        "valor":4.98,
-        "valorExibicao":"R$ 4,98",
-        "data":"2017-10-09T03:00:00.000Z",
-        "observacoes":"Pack com 3 cabeças / 100g"
+        "valor": 4.98,
+        "valorExibicao": "R$ 4,98",
+        "data": "2017-10-09T03:00:00.000Z",
+        "observacoes": "Pack com 3 cabeças / 100g"
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Limão",
-    "categoria":"Alimentação - Hortifruti",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Limão",
+    "categoria": "Alimentação - Hortifruti",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Pimentão Verde",
-    "categoria":"Alimentação - Hortifruti",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Pimentão Verde",
+    "categoria": "Alimentação - Hortifruti",
+    "historico": [
       {
-        "valor":1.05,
-        "valorExibicao":"R$ 1,05",
-        "data":null,
-        "observacoes":"1 pimentão - R$6,78 p/kg"
+        "valor": 1.05,
+        "valorExibicao": "R$ 1,05",
+        "data": null,
+        "observacoes": "1 pimentão - R$6,78 p/kg"
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Batata Salsa",
-    "categoria":"Alimentação - Hortifruti",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Batata Salsa",
+    "categoria": "Alimentação - Hortifruti",
+    "historico": [
       {
-        "valor":1.97,
-        "valorExibicao":"R$ 1,97",
-        "data":null,
-        "observacoes":"4 batatas - 0,495g - R$3,98 p/kg"
+        "valor": 1.97,
+        "valorExibicao": "R$ 1,97",
+        "data": null,
+        "observacoes": "4 batatas - 0,495g - R$3,98 p/kg"
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Molho de Tomate",
-    "categoria":"Alimentação - Molhos",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Molho de Tomate",
+    "categoria": "Alimentação - Molhos",
+    "historico": [
       {
-        "valor":2.38,
-        "valorExibicao":"R$ 2,38",
-        "data":"2017-10-09T03:00:00.000Z",
-        "observacoes":"Polpa de Tomate Quero - 500g"
+        "valor": 2.38,
+        "valorExibicao": "R$ 2,38",
+        "data": "2017-10-09T03:00:00.000Z",
+        "observacoes": "Polpa de Tomate Quero - 500g"
       },
       {
-        "valor":2.18,
-        "valorExibicao":"R$ 2,18",
-        "data":null,
-        "observacoes":"Extrato Fugini - 340g | Cachorro Quente cine"
+        "valor": 2.18,
+        "valorExibicao": "R$ 2,18",
+        "data": null,
+        "observacoes": "Extrato Fugini - 340g | Cachorro Quente cine"
       }
     ],
-    "valorMedio":2.2800000000000002
+    "temHistorico": true,
+    "valorMedio": 2.2800000000000002
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Creme de Leite",
-    "categoria":"Alimentação - Molhos",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Creme de Leite",
+    "categoria": "Alimentação - Molhos",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Ketchup",
-    "categoria":"Alimentação - Molhos",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Ketchup",
+    "categoria": "Alimentação - Molhos",
+    "historico": [
       {
-        "valor":4.78,
-        "valorExibicao":"R$ 4,78",
-        "data":"2017-10-09T03:00:00.000Z",
-        "observacoes":"Hemmer"
+        "valor": 4.78,
+        "valorExibicao": "R$ 4,78",
+        "data": "2017-10-09T03:00:00.000Z",
+        "observacoes": "Hemmer"
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Mostarda",
-    "categoria":"Alimentação - Molhos",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Mostarda",
+    "categoria": "Alimentação - Molhos",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Molho de Pimenta",
-    "categoria":"Alimentação - Molhos",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Molho de Pimenta",
+    "categoria": "Alimentação - Molhos",
+    "historico": [
       {
-        "valor":4.68,
-        "valorExibicao":"R$ 4,68",
-        "data":"2017-10-09T03:00:00.000Z",
-        "observacoes":"Molho de Pimenta Knorr"
+        "valor": 4.68,
+        "valorExibicao": "R$ 4,68",
+        "data": "2017-10-09T03:00:00.000Z",
+        "observacoes": "Molho de Pimenta Knorr"
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Maionese",
-    "categoria":"Alimentação - Molhos",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Maionese",
+    "categoria": "Alimentação - Molhos",
+    "historico": [
       {
-        "valor":6.84,
-        "valorExibicao":"R$ 6,84",
-        "data":"2017-10-09T03:00:00.000Z",
-        "observacoes":"Bisnaga Hellmanns"
+        "valor": 6.84,
+        "valorExibicao": "R$ 6,84",
+        "data": "2017-10-09T03:00:00.000Z",
+        "observacoes": "Bisnaga Hellmanns"
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Óleo",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Óleo",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [
       {
-        "valor":5.78,
-        "valorExibicao":"R$ 5,78",
-        "data":"2017-07-07T03:00:00.000Z",
-        "observacoes":""
+        "valor": 5.78,
+        "valorExibicao": "R$ 5,78",
+        "data": "2017-07-07T03:00:00.000Z",
+        "observacoes": ""
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Azeite de Oliva",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Azeite de Oliva",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Gordura de Côco",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Gordura de Côco",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Margarina",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Margarina",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Manteiga",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Manteiga",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Fermento Químico (Bolo)",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Fermento Químico (Bolo)",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Farinha de Trigo",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Farinha de Trigo",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Farinha de Trigo Integral",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Farinha de Trigo Integral",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Farinha de Mandioca",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Farinha de Mandioca",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Aveia",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Aveia",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Açúcar Refinado",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Açúcar Refinado",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [
       {
-        "valor":2.28,
-        "valorExibicao":"R$ 2,28",
-        "data":"2017-07-07T03:00:00.000Z",
-        "observacoes":""
+        "valor": 2.28,
+        "valorExibicao": "R$ 2,28",
+        "data": "2017-07-07T03:00:00.000Z",
+        "observacoes": ""
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Açúcar Mascavo",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Açúcar Mascavo",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Café",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Café",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Macarrão",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Macarrão",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Sal",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Sal",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Arroz",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Arroz",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Feijão",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Feijão",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"PTS",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "PTS",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Lentilha",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Lentilha",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Pipoca",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Pipoca",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Filtro de Café",
-    "categoria":"Alimentação - Não Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Filtro de Café",
+    "categoria": "Alimentação - Não Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Fermento Biológico (Pães/Massas)",
-    "categoria":"Alimentação - Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Fermento Biológico (Pães/Massas)",
+    "categoria": "Alimentação - Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Bolacha Doce",
-    "categoria":"Alimentação - Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Bolacha Doce",
+    "categoria": "Alimentação - Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Bolacha Salgada",
-    "categoria":"Alimentação - Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Bolacha Salgada",
+    "categoria": "Alimentação - Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Pão fatiado",
-    "categoria":"Alimentação - Perecíveis",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Pão fatiado",
+    "categoria": "Alimentação - Perecíveis",
+    "historico": [
       {
-        "valor":4.58,
-        "valorExibicao":"R$ 4,58",
-        "data":"2017-07-07T03:00:00.000Z",
-        "observacoes":"Thabrulai de batata"
+        "valor": 4.58,
+        "valorExibicao": "R$ 4,58",
+        "data": "2017-07-07T03:00:00.000Z",
+        "observacoes": "Thabrulai de batata"
       },
       {
-        "valor":5.78,
-        "valorExibicao":"R$ 5,78",
-        "data":null,
-        "observacoes":"Wickbold Integral"
+        "valor": 5.78,
+        "valorExibicao": "R$ 5,78",
+        "data": null,
+        "observacoes": "Wickbold Integral"
       }
     ],
-    "valorMedio":5.18
+    "temHistorico": true,
+    "valorMedio": 5.18
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Pãozinho",
-    "categoria":"Alimentação - Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Pãozinho",
+    "categoria": "Alimentação - Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Shoyu",
-    "categoria":"Alimentação - Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Shoyu",
+    "categoria": "Alimentação - Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Ovos",
-    "categoria":"Alimentação - Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Ovos",
+    "categoria": "Alimentação - Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Queijo",
-    "categoria":"Alimentação - Perecíveis",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Queijo",
+    "categoria": "Alimentação - Perecíveis",
+    "historico": [
       {
-        "valor":10.81,
-        "valorExibicao":"R$ 10,81",
-        "data":"2017-10-09T03:00:00.000Z",
-        "observacoes":"416g - R$25,98 p/kg"
+        "valor": 10.81,
+        "valorExibicao": "R$ 10,81",
+        "data": "2017-10-09T03:00:00.000Z",
+        "observacoes": "416g - R$25,98 p/kg"
       },
       {
-        "valor":11.11,
-        "valorExibicao":"R$ 11,11",
-        "data":null,
-        "observacoes":"Queijo Prato - 570g - R$19,50 p/kg"
+        "valor": 11.11,
+        "valorExibicao": "R$ 11,11",
+        "data": null,
+        "observacoes": "Queijo Prato - 570g - R$19,50 p/kg"
       }
     ],
-    "valorMedio":10.96
+    "temHistorico": true,
+    "valorMedio": 10.96
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Chá",
-    "categoria":"Alimentação - Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Chá",
+    "categoria": "Alimentação - Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Chimarrão",
-    "categoria":"Alimentação - Perecíveis",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Chimarrão",
+    "categoria": "Alimentação - Perecíveis",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Canela em pó",
-    "categoria":"Alimentação - Temperos",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Canela em pó",
+    "categoria": "Alimentação - Temperos",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Orégano",
-    "categoria":"Alimentação - Temperos",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Orégano",
+    "categoria": "Alimentação - Temperos",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Manjericão",
-    "categoria":"Alimentação - Temperos",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Manjericão",
+    "categoria": "Alimentação - Temperos",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Cominho",
-    "categoria":"Alimentação - Temperos",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Cominho",
+    "categoria": "Alimentação - Temperos",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Páprica picante",
-    "categoria":"Alimentação - Temperos",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Páprica picante",
+    "categoria": "Alimentação - Temperos",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Páprica doce",
-    "categoria":"Alimentação - Temperos",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Páprica doce",
+    "categoria": "Alimentação - Temperos",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Açafrão",
-    "categoria":"Alimentação - Temperos",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Açafrão",
+    "categoria": "Alimentação - Temperos",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Noz Moscada",
-    "categoria":"Alimentação - Temperos",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Noz Moscada",
+    "categoria": "Alimentação - Temperos",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Curry",
-    "categoria":"Alimentação - Temperos",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Curry",
+    "categoria": "Alimentação - Temperos",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Sabonete",
-    "categoria":"Higiene Pessoal",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Sabonete",
+    "categoria": "Higiene Pessoal",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Sabonete Líquido (banho)",
-    "categoria":"Higiene Pessoal",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Sabonete Líquido (banho)",
+    "categoria": "Higiene Pessoal",
+    "historico": [
       {
-        "valor":6.98,
-        "valorExibicao":"R$ 6,98",
-        "data":"2017-07-07T03:00:00.000Z",
-        "observacoes":""
+        "valor": 6.98,
+        "valorExibicao": "R$ 6,98",
+        "data": "2017-07-07T03:00:00.000Z",
+        "observacoes": ""
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Sabonete Líquido (pia)",
-    "categoria":"Higiene Pessoal",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Sabonete Líquido (pia)",
+    "categoria": "Higiene Pessoal",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Shampoo",
-    "categoria":"Higiene Pessoal",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Shampoo",
+    "categoria": "Higiene Pessoal",
+    "historico": [
       {
-        "valor":14.98,
-        "valorExibicao":"R$ 14,98",
-        "data":null,
-        "observacoes":"Kit shampoo + condicionador Tre Semme"
+        "valor": 14.98,
+        "valorExibicao": "R$ 14,98",
+        "data": null,
+        "observacoes": "Kit shampoo + condicionador Tre Semme"
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Condicionador",
-    "categoria":"Higiene Pessoal",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Condicionador",
+    "categoria": "Higiene Pessoal",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Desodorante",
-    "categoria":"Higiene Pessoal",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Desodorante",
+    "categoria": "Higiene Pessoal",
+    "historico": [
       {
-        "valor":11.98,
-        "valorExibicao":"R$ 11,98",
-        "data":null,
-        "observacoes":"Foram compradas duas unidades - Nivea"
+        "valor": 11.98,
+        "valorExibicao": "R$ 11,98",
+        "data": null,
+        "observacoes": "Foram compradas duas unidades - Nivea"
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Escova de Dentes",
-    "categoria":"Higiene Pessoal",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Escova de Dentes",
+    "categoria": "Higiene Pessoal",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Creme Dental",
-    "categoria":"Higiene Pessoal",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Creme Dental",
+    "categoria": "Higiene Pessoal",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Papel Higiênico",
-    "categoria":"Higiene Pessoal",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Papel Higiênico",
+    "categoria": "Higiene Pessoal",
+    "historico": [
       {
-        "valor":21.38,
-        "valorExibicao":"R$ 21,38",
-        "data":"2017-07-07T03:00:00.000Z",
-        "observacoes":""
+        "valor": 21.38,
+        "valorExibicao": "R$ 21,38",
+        "data": "2017-07-07T03:00:00.000Z",
+        "observacoes": ""
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Cotonetes",
-    "categoria":"Higiene Pessoal",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Cotonetes",
+    "categoria": "Higiene Pessoal",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Sapólio",
-    "categoria":"Limpeza Domestica",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Sapólio",
+    "categoria": "Limpeza Domestica",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Q-Boa",
-    "categoria":"Limpeza Domestica",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Q-Boa",
+    "categoria": "Limpeza Domestica",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Pinho Sol",
-    "categoria":"Limpeza Domestica",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Pinho Sol",
+    "categoria": "Limpeza Domestica",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Limpa Piso",
-    "categoria":"Limpeza Domestica",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Limpa Piso",
+    "categoria": "Limpeza Domestica",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Vinagre para limpeza",
-    "categoria":"Limpeza Domestica",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Vinagre para limpeza",
+    "categoria": "Limpeza Domestica",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Amaciante",
-    "categoria":"Limpeza Domestica",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Amaciante",
+    "categoria": "Limpeza Domestica",
+    "historico": [
       {
-        "valor":9.48,
-        "valorExibicao":"R$ 9,48",
-        "data":"2017-07-07T03:00:00.000Z",
-        "observacoes":"Pack com 2 concentrados Ype"
+        "valor": 9.48,
+        "valorExibicao": "R$ 9,48",
+        "data": "2017-07-07T03:00:00.000Z",
+        "observacoes": "Pack com 2 concentrados Ype"
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Lava Roupas",
-    "categoria":"Limpeza Domestica",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Lava Roupas",
+    "categoria": "Limpeza Domestica",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Detergente",
-    "categoria":"Limpeza Domestica",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Detergente",
+    "categoria": "Limpeza Domestica",
+    "historico": [
       {
-        "valor":1.88,
-        "valorExibicao":"R$ 1,88",
-        "data":"2017-07-07T03:00:00.000Z",
-        "observacoes":""
+        "valor": 1.88,
+        "valorExibicao": "R$ 1,88",
+        "data": "2017-07-07T03:00:00.000Z",
+        "observacoes": ""
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Esponja para Louças",
-    "categoria":"Limpeza Domestica",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Esponja para Louças",
+    "categoria": "Limpeza Domestica",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Saco de Lixo",
-    "categoria":"Limpeza Domestica",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Saco de Lixo",
+    "categoria": "Limpeza Domestica",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Saco plástico de Cozinha",
-    "categoria":"Limpeza Domestica",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Saco plástico de Cozinha",
+    "categoria": "Limpeza Domestica",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Álcool",
-    "categoria":"Limpeza Domestica",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Álcool",
+    "categoria": "Limpeza Domestica",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Terra",
-    "categoria":"Plantas",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Terra",
+    "categoria": "Plantas",
+    "historico": [
       {
-        "valor":16.9,
-        "valorExibicao":"R$ 16,90",
-        "data":"2017-10-09T03:00:00.000Z",
-        "observacoes":"Pacote 5kg"
+        "valor": 16.9,
+        "valorExibicao": "R$ 16,90",
+        "data": "2017-10-09T03:00:00.000Z",
+        "observacoes": "Pacote 5kg"
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Humus de Minhoca",
-    "categoria":"Plantas",
-    "historico":[
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Humus de Minhoca",
+    "categoria": "Plantas",
+    "historico": [
       {
-        "valor":7.9,
-        "valorExibicao":"R$ 7,90",
-        "data":"2017-10-09T03:00:00.000Z",
-        "observacoes":"Pacote 2kg"
+        "valor": 7.9,
+        "valorExibicao": "R$ 7,90",
+        "data": "2017-10-09T03:00:00.000Z",
+        "observacoes": "Pacote 2kg"
       }
     ],
-    "valorMedio":null
+    "temHistorico": false,
+    "valorMedio": null
   },
   {
-    "ultimaAtualizacao":"2017-10-02T21:43:20.645Z",
-    "item":"Sementes para Plantio",
-    "categoria":"Plantas",
-    "historico":[
-
-    ],
-    "valorMedio":null
+    "ultimaAtualizacao": "2017-10-02T21:43:20.645Z",
+    "item": "Sementes para Plantio",
+    "categoria": "Plantas",
+    "historico": [],
+    "temHistorico": false,
+    "valorMedio": null
   }
 ]

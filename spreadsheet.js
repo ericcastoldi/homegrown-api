@@ -2,7 +2,7 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 
 const GoogleSpreadsheet = require('google-spreadsheet');
 const credentials = require('./client-secret.json');
-const parseRows = require('./parseRows.js');
+
 
 const getRows = () => {
     return new Promise((resolve, reject) => {
@@ -22,7 +22,7 @@ const getRows = () => {
                     return;
                 }
                 
-                resolve(parseRows(rows));
+                resolve(rows);
             });
            
         });
