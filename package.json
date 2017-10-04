@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ericcastoldi/homegrown-api/issues"
   },
-  "homepage": "https://github.com/ericcastoldi/homegrown-api#readme"
+  "homepage": "https://github.com/ericcastoldi/homegrown-api#readme",
+  "dependencies": {
+    "google-spreadsheet": "^2.0.4",
+    "moment": "^2.18.1"
+  }
 }

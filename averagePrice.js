@@ -1,5 +1,5 @@
-const sum = (prev, next) => {
-    return prev.valor + next.valor; 
+const sum = (prev, curr) => {
+    return prev.valor + curr.valor; 
 };
 
 const calcAvgPrice = (row) => {
@@ -21,5 +21,6 @@ const averagePrice = (rows) => {
     
 };
 
+module.exports = averagePrice;
 
-module.exports = averagePrice
+

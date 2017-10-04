@@ -1,6 +1,8 @@
+const moment = require('moment'); 
+
 const normalizeDate = (date) => {
     return date 
-        ? new Date(date) 
+        ? moment(date, "DD-MM-YYYY").toDate()
         : null;
 };
 
