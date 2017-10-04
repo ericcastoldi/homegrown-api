@@ -54,11 +54,13 @@ const parseRow = (row) => {
     const edited = row.hasOwnProperty(lastEditPropName) ? row[lastEditPropName] : null;
     
     const history = buildHistory(row);
+    const temHistorico = history.length > 1;
     return {
        ultimaAtualizacao: new Date(edited),
        item: row.item,
        categoria: row.categoria,
-       historico: history
+       historico: history,
+       temHistorico: temHistorico
     };
 };
 

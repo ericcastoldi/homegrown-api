@@ -23,17 +23,12 @@ const getRows = () => {
                 }
                 
                 resolve(parseRows(rows));
-               
             });
            
         });
     });
 };
 
-//getSheetRows()
-//    .then(rows => console.log(JSON.stringify(rows)))
-//    .catch(console.error);
-    
 module.exports = { 
     getRows: getRows
 };
