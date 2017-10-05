@@ -1,6 +1,9 @@
 # Homegrown 
 
 Aplicativo auxiliar no planejamento doméstico.
+
+> **Planilha Principal:** https://docs.google.com/spreadsheets/d/1DxzIdHkuZPZq6Q_5etViHlEZIUPQJkgPqs8Wc49GfRg/edit#gid=1986341394
+
 Consiste em um processamento de quatro a cinco etapas (TBD): 
     - **Providers:** realizam a obtenção dos dados, a partir de planilhas e de serviços bancários ou de Cartão de Crédito
     - **Parsers:**  realizam a análise dos dados recebidos dos _Providers_, unificando o modelo de dados a ser repassado para os 
