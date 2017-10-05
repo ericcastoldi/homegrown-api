@@ -1,7 +1,7 @@
 const normalize = require('./normalize.js');
 
 const createHistoryItem = (valor, data, obs) => {
-    
+
     const item = {
         valor: normalize.currency(valor),
         valorExibicao: valor,

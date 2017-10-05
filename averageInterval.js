@@ -16,7 +16,8 @@ const calcAvgInterval = (row) => {
     const firstDate = moment(first.data);
     const lastDate = moment(last.data);
     
-    return lastDate.diff(firstDate, 'days') / (row.historico.length - 1)
+    const avgInterval = lastDate.diff(firstDate, 'days') / (row.historico.length - 1);
+    return Math.round(avgInterval);
 };
 
 
