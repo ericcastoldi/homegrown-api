@@ -5,10 +5,11 @@ Aplicativo auxiliar no planejamento doméstico.
 > **Planilha Principal:** https://docs.google.com/spreadsheets/d/1DxzIdHkuZPZq6Q_5etViHlEZIUPQJkgPqs8Wc49GfRg/edit#gid=1986341394
 
 Consiste em um processamento de quatro a cinco etapas (TBD): 
-    - **Providers:** realizam a obtenção dos dados, a partir de planilhas e de serviços bancários ou de Cartão de Crédito
-    - **Parsers:**  realizam a análise dos dados recebidos dos _Providers_, unificando o modelo de dados a ser repassado para os 
-        - **Conciliation:** _(TBD)_ para os casos em que os _Parsers_ não conseguiram interpretar o modelo retornado pelo provider, o usuário precisará dar uma "ajudinha" ao Homegrown. Ex: quebrar uma transação do nubank em vários lançamentos no caso de uma compra de areia e ração num Pet Shop.
-    - **Suggestion:** tendo em mãos uma massa de dados com informações de frequencia de compra podemos realizar sugestões de datas de futuras compras de cada item e com as informações de média de valores e nomes de estabelecimentos conseguimos determinar onde pode ser mais vantajoso fazer determinadas compras. 
+
+- **Providers:** realizam a obtenção dos dados, a partir de planilhas e de serviços bancários ou de Cartão de Crédito
+- **Parsers:**  realizam a análise dos dados recebidos dos _Providers_, unificando o modelo de dados a ser repassado para os 
+    - **Conciliation:** _(TBD)_ para os casos em que os _Parsers_ não conseguiram interpretar o modelo retornado pelo provider, o usuário precisará dar uma "ajudinha" ao Homegrown. Ex: quebrar uma transação do nubank em vários lançamentos no caso de uma compra de areia e ração num Pet Shop.
+- **Suggestion:** tendo em mãos uma massa de dados com informações de frequencia de compra podemos realizar sugestões de datas de futuras compras de cada item e com as informações de média de valores e nomes de estabelecimentos conseguimos determinar onde pode ser mais vantajoso fazer determinadas compras. 
 
 > Cada etapa dessas consiste de uma serie de implementações que são executadas em sequencia em forma de pipe, de forma que cada camada enriquece mais o resultado da camada anterior.
     
