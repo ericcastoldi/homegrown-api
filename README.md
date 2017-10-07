@@ -6,16 +6,16 @@ Aplicativo auxiliar no planejamento doméstico.
 
 Consiste em um processamento de quatro a cinco etapas (TBD): 
 
-- **Providers:** realizam a obtenção dos dados, a partir de planilhas e de serviços bancários ou de Cartão de Crédito
-- **Parsers:**  realizam a análise dos dados recebidos dos _Providers_, unificando o modelo de dados a ser repassado para os 
+- **Providers:** realizam a obtenção dos dados, a partir de planilhas, de serviços bancários ou de Cartão de Crédito.
+- **Parsers:**  realizam a análise dos dados recebidos dos _Providers_, unificando o modelo de dados.
     - **Conciliation:** _(TBD)_ para os casos em que os _Parsers_ não conseguiram interpretar o modelo retornado pelo provider, o usuário precisará dar uma "ajudinha" ao Homegrown. Ex: quebrar uma transação do nubank em vários lançamentos no caso de uma compra de areia e ração num Pet Shop.
 - **Suggestion:** tendo em mãos uma massa de dados com informações de frequencia de compra podemos realizar sugestões de datas de futuras compras de cada item e com as informações de média de valores e nomes de estabelecimentos conseguimos determinar onde pode ser mais vantajoso fazer determinadas compras. 
 
-> Cada etapa dessas consiste de uma serie de implementações que são executadas em sequencia em forma de pipe, de forma que cada camada enriquece mais o resultado da camada anterior.
+> Cada etapa dessas consiste de uma serie de implementações que são executadas em sequencia, de forma que cada camada enriquece mais o resultado da camada anterior.
     
 ## TODO
 
-Os TODOs abaixo levam em consideração apenas as funcionalidades em desenvolvimento no momento. Desta forma, os TODOs abaixo não levam em consideração necessidades das camadas de Conciliation e Suggestion pois ainda não foram implementadas. 
+Os TODOs abaixo levam em consideração apenas as funcionalidades em desenvolvimento no momento. Desta forma, os TODOs abaixo não levam em consideração necessidades das camadas de _Conciliation_ e _Suggestion_ pois ainda não foram implementadas. 
 
 ### Alterar modelo de dados da planilha
 
@@ -42,11 +42,11 @@ Em contrapartida, algumas informações não estão sendo utilizadas e talvez n�
 - **Valor Exibição (Histórico):** Não está sendo utilizado para absolutamente nada, apenas para mostrar o dado Cru antes de ter sido convertido para numérico _(Ver abaixo sugestão do campo_ `_raw`_)_
 - **Observações (Histórico):** Está sendo utilizado principalmente para descrever quantidades (o que já é resolvido pela sugestão acima) e marca/produto (que pode ser resolvido na forma de Familia / Familia Rotulada).
 
-> Uma ideia é incluir um campo `_raw` nos modelos, cujo objetivo é armazenar exatamente o json do registro retornado pelos providers, antes de passar pelos parsers. Isso seria particularmente útil para a **Conciliação**, além de possibilitar uma modelagem mais objetiva.
+> Uma ideia é incluir um campo `_raw` nos modelos, cujo objetivo é armazenar exatamente o json do registro retornado pelos providers, antes de passar pelos parsers. Isso seria particularmente útil para a **Conciliação**, além de possibilitar uma modelagem mais objetiva. E seguindo essa ideia, caso seja necessário podemos ter uma camada que remove essa propriedade `_raw` dos objetos para diminuir o tamanho deles. 
 
 ### Utilizar OCR para importar Cupons Fiscais
 
-Essa funcionalidade seria extremamente útil para contornar a necessidade de digitar manualmente na Planilha os itens dos Cupons de Compras, de forma que bastaa tirar uma foto do cupom que o Homegrown utilizando uma biblioteca de OCR realiza a extração do texto e gera registros de itens para cada item presente no Cupom.
+Essa funcionalidade seria extremamente útil para contornar a necessidade de digitar manualmente na Planilha os itens dos Cupons de Compras, de forma que basta tirar uma foto do cupom que o Homegrown utilizando uma biblioteca de OCR realiza a extração do texto e gera registros de itens para cada item presente no Cupom.
 
 Pacotes/artigos a avaliar:
 - https://ourcodeworld.com/articles/read/348/getting-started-with-optical-character-recognition-ocr-with-tesseract-in-node-js

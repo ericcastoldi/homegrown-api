@@ -1,4 +1,4 @@
-const normalize = require('./normalize.js');
+const normalize = require('../normalize.js');
 
 const createHistoryItem = (valor, data, obs) => {
 
@@ -8,64 +8,58 @@ const createHistoryItem = (valor, data, obs) => {
         data: normalize.date(data),
         observacoes: obs
     }
-    
+
     return item;
 }
 
 const hasHistoryProps = (row, propValor, propData, propObs) => {
-    
+
     return (row.hasOwnProperty(propValor) && Boolean(row[propValor]))
         || (row.hasOwnProperty(propData)  && Boolean(row[propData]))
-        || (row.hasOwnProperty(propObs) && Boolean(row[propObs])); 
+        || (row.hasOwnProperty(propObs) && Boolean(row[propObs]));
 };
 
 const buildHistory = (row) => {
-    
+
     const history = [];
-    
+
     const valorPrefix = 'valor';
     const dataPrefix = 'data';
     const observacoesPrefix = 'observações';
-    
+
     let index = 1;
     let propValor = valorPrefix + index;
     let propData = dataPrefix + index;
     let propObs = observacoesPrefix + index;
-    
-    
+
+
     while(hasHistoryProps(row, propValor, propData, propObs))
     {
         const item = createHistoryItem(row[propValor], row[propData], row[propObs])
         history.push(item);
-        
+
         index++;
         propValor = valorPrefix + index;
         propData = dataPrefix + index;
         propObs = observacoesPrefix + index;
     }
-    
+
     return history;
-    
+
 };
 
 const parseRow = (row) => {
-    
-    const lastEditPropName = 'app:edited';
-    const edited = row.hasOwnProperty(lastEditPropName) ? row[lastEditPropName] : null;
-    
-    const history = buildHistory(row);
-    const temHistorico = history.length > 1;
-    return {
-       ultimaAtualizacao: new Date(edited),
-       item: row.item,
-       categoria: row.categoria,
-       historico: history,
-       temHistorico: temHistorico
-    };
+    const cloneRow = Object.assign({}, row);
+
+    const history = buildHistory(cloneRow._raw);
+    cloneRow.historico = history;
+    cloneRow.temHistorico = history.length > 1;
+
+    return cloneRow;
 };
 
-const parseRows = (rawRows) => {
-    return rawRows.map(parseRow);
+const historyParser = (rows) => {
+    return rows.map(parseRow);
 };
 
-module.exports = parseRows;
+module.exports = historyParser;

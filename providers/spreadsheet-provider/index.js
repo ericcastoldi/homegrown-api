@@ -1,14 +1,14 @@
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 
 const GoogleSpreadsheet = require('google-spreadsheet');
-const credentials = require('./client-secret.json');
+const credentials = require('./../../client-secret.json');
 
 
-const getRows = () => {
+const getItems = () => {
     return new Promise((resolve, reject) => {
-        
+
         const sheet = new GoogleSpreadsheet('1DxzIdHkuZPZq6Q_5etViHlEZIUPQJkgPqs8Wc49GfRg');
-        
+
         sheet.useServiceAccountAuth(credentials, (authErr) => {
 
             if(authErr) {
@@ -21,14 +21,14 @@ const getRows = () => {
                     reject(getRowsErr);
                     return;
                 }
-                
+
                 resolve(rows);
             });
-           
+
         });
     });
 };
 
-module.exports = { 
-    getRows: getRows
+module.exports = {
+    getItems: getItems
 };

@@ -1,0 +1,1 @@
+// TODO: Ler data da próxima compra, comparar com o dia atual e gerar uma sugestão baseada na quantidade de dias faltantes para chegar à data prevista para compra e na média  de dias entre as compras do histórico.
