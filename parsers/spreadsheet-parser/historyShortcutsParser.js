@@ -1,20 +1,15 @@
-const rowParser = (row) => {
-    const cloneRow = Object.assign({}, row);
-    if(!cloneRow.temHistorico) {
-        return cloneRow;
-    }
+const historyRequired = require('../../decorators/historyRequired.js');
 
-    const first = cloneRow.historico[0];
-    const last = cloneRow.historico[row.historico.length - 1];
-    cloneRow.primeiroHistorico = Object.assign({}, first);
-    cloneRow.ultimoHistorico = Object.assign({}, last);
+const historyShortcutsParser = (row) => {
+    console.log('historyShortcutsParser ', row.item);
+    const first = row.historico[0];
+    const last = row.historico[row.historico.length - 1];
 
-    return cloneRow;
+    row.primeiroHistorico = Object.assign({}, first);
+    row.ultimoHistorico = Object.assign({}, last);
+
+    return row;
 };
 
 
-const historyShortcutsParser = (rows) => {
-    return rows.map(rowParser);
-};
-
-module.exports = historyShortcutsParser;
+module.exports = historyRequired(historyShortcutsParser);

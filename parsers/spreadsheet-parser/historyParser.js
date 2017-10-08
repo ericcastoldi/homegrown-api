@@ -1,4 +1,6 @@
 const normalize = require('../normalize.js');
+const cloneItems = require('../../decorators/cloneItems.js');
+
 
 const createHistoryItem = (valor, data, obs) => {
 
@@ -48,18 +50,12 @@ const buildHistory = (row) => {
 
 };
 
-const parseRow = (row) => {
-    const cloneRow = Object.assign({}, row);
-
-    const history = buildHistory(cloneRow._raw);
-    cloneRow.historico = history;
-    cloneRow.temHistorico = history.length > 1;
-
-    return cloneRow;
+const historyParser = (row) => {
+    console.log('historyParser ', row.item);
+    const history = buildHistory(row._raw);
+    row.historico = history;
+    row.temHistorico = history.length > 1;
+    return row;
 };
 
-const historyParser = (rows) => {
-    return rows.map(parseRow);
-};
-
-module.exports = historyParser;
+module.exports = cloneItems(historyParser);

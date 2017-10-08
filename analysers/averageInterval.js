@@ -7,7 +7,7 @@ const averageInterval = (row) => {
 
     if(Boolean(first.data) === false
         || Boolean(last.data) === false) {
-        return null;
+        return row;
     }
 
     const firstDate = moment(first.data);

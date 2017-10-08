@@ -1,11 +1,12 @@
-const baseParser = (rawRows) => {
-    return rawRows.map(row => {
-            const cloneRow = Object.assign({}, row);
-            return {
-                item: cloneRow.item,
-                _raw: cloneRow
-            };
-    });
+const cloneItems = require('../../decorators/cloneItems.js');
+
+
+const baseParser = row => {
+    console.log('baseParser ', row.item);
+    return {
+        item: row.item,
+        _raw: row
+    };
 };
 
-module.exports = baseParser;
+module.exports = cloneItems(baseParser);
