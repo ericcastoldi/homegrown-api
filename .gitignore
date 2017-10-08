@@ -49,3 +49,5 @@ jspm_packages/
 .env
 
 .idea
+
+parsers/receipt-parser/test-receipts/bkp

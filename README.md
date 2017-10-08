@@ -58,6 +58,19 @@ Pacotes/artigos a avaliar:
 
 > Inicialmente importar para a planilha, futuramente teremos um storage dedicado para o Homegrown. Inclusive é interessante que a foto do cupom fique salva no storage junto com os itens importados.
 
+Nos primeiros testes foi verificado que a principal biblioteca de OCR (Tesseract) foi desenhada para interpretar textos no formato de artigos e livros, de forma que a tipografia e a estrutura de texto dos cupons fiscais trazem alguns desafios para o reconhecimento do texto. 
+ 
+Desta forma, para facilitar o trabalho de extração do texto temos duas alternativas: adicionar etapas de tratamento das fotos dos cupons antes de realizar a extração dos dados ou realizar o treinamento da engine do Tessaract com a tipografia e estrutura de texto dos cupons fiscais. 
+
+> Artigo sobre treinamento do Tesseract: https://medium.com/apegroup-texts/training-tesseract-for-labels-receipts-and-such-690f452e8f79
+
+Os tratamentos que podem ser realizados nas fotos para facilitar a leitura dos dados são principalmente _zoom_ e aumento de brilho e contraste, buscando manter o fundo da imagem o mais branco possível e as letras com o maior destaque possível. Também foram alcançados melhores resultados quando realizado o _crop_ das fotos para focar apenas nos itens do cupom, descartando as demais informações.
+
+A nível de aplicação o _crop_ pode ser realizado por um componente de frontend, onde o próprio usuário seleciona somente a área de itens do cupom.
+
+Em nenhum dos testes foi obtido um resultado 100%. Até mesmo os itens que foram reconhecidos com o maior grau de assertividade precisariam de ajustes manuais nos textos e principalmente nos valores. Talvez com uma edição mais consistente das imagens ou com o próprio treinamento da engine do Tesseract conseguimos alcançar resultados mais satisfatórios.
+
+Ainda que os textos não estejam sendo reconhecidos com exatidão, para possibilitar a geração de mais dados históricos já podemos fazer a importação dos cupons para a planilha do Homegrown. 
 
 ### Realizar integração com NuBank e BB
 
