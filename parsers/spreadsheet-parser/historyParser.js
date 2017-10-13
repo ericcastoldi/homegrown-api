@@ -6,7 +6,6 @@ const createHistoryItem = (valor, data, obs) => {
 
     const item = {
         valor: normalize.currency(valor),
-        valorExibicao: valor,
         data: normalize.date(data),
         observacoes: obs
     }
