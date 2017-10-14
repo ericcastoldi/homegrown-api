@@ -50,7 +50,6 @@ const buildHistory = (row) => {
 };
 
 const historyParser = (row) => {
-    console.log('historyParser ', row.item);
     const history = buildHistory(row._raw);
     row.historico = history;
     row.temHistorico = history.length > 1;
